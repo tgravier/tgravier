@@ -13,7 +13,7 @@ Research at École Normale Supérieure (Ulm) - IBENS
 ## Featured Research
 
 ### **Multi-marginal temporal Schrödinger Bridge Matching for video generation from unpaired data**
-*Under review at ICLR 2026*
+*Under review at ICML 2026*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.01894-b31b1b.svg)](https://arxiv.org/abs/2510.01894)
 [![Project Page](https://img.shields.io/badge/Project_Page-Website-green)](https://mmdsbm.notion.site/)
