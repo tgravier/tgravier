@@ -41,17 +41,19 @@ Research at École Normale Supérieure (Ulm) - IBENS
 - **EDF Excellence Scholarship** - Mathematical Sciences
 
 ---
-
 ## Experience
 
-**Research Intern** - *École Normale Supérieure (Ulm) - IBENS* (2025)  
-Multi-marginal Schrödinger Bridges for video generation from unpaired data
+**Research Intern** – *École Normale Supérieure (ENS-PSL), IBENS* (2025) – Paris, France  
+Developed a dynamical multi-marginal Schrödinger bridge formulation for temporal generative modeling, resulting in a scalable video generation framework based on entropic optimal transport for coherent video synthesis from static and unpaired data.  
+First author of a paper submitted to ICML 2026.
 
-**Research Engineer** - *French Space Agency (CNES)* (2023-2024)  
-Inverse problems, Physics-Informed ML, signal processing for aerospace
+**Research Engineer** – *French Space Agency (CNES)* (2023–2024) – Toulouse, France  
+Developed inverse problem solvers based on Physics-Informed Neural Networks (PINNs) for high-dimensional space signal reconstruction.  
+Designed uncertainty-aware models for remote sensing data and advanced signal processing pipelines for aerospace applications.
 
-**Research Intern** - *French Space Agency (CNES)* (2022-2023)  
-Capillary fluid dynamics models tested in microgravity
+**Research Intern** – *French Space Agency (CNES)* (2022) – Toulouse/Bordeaux, France  
+Developed uncertainty-quantified deep learning models for remote sensing image enhancement and signal reconstruction in microgravity-related applications.
+
 
 ---
 
